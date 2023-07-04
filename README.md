@@ -1,1 +1,3 @@
-# appplication_tracker
+# Application Tracker
+-----------------------
+by Svamin and Dhruv
